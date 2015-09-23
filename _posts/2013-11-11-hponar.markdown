@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "NAR publication"
+date:   2013-11-11 20:00:00
+categories: 
+---
+
+## HPO publication in NAR
+
+The new HPO-paper is online at [Nucleic Acids Research](http://nar.oxfordjournals.org/content/42/D1/D966.full). Please cite this publication when using HPO.

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "PhenIX"
+date:   2014-09-30 20:00:00
+categories: 
+---
+
+## HPO for exome sequencing
+
+We have published a paper that uses HPO for effective diagnosis of genetic disease. It is now available at [Science Translational Medicine](http://stm.sciencemag.org/content/6/252/252ra123.abstract).
