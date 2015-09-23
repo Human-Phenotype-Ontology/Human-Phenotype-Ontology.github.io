@@ -1,50 +1,34 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Human Phenotype Ontology by Human-Phenotype-Ontology</title>
-
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-       <img alt="HPO Logo" title="HPO Logo" src="images/hpo_small.png" style="width: 200px;max-height: auto" />
-        <p>Human Phenotype Ontology Website</p>
-
-
-        <div class="view"><a href="https://github.com/Human-Phenotype-Ontology">Introduction</a></div>
-        <div class="view"><a href="https://github.com/Human-Phenotype-Ontology">Annotation Guide</a></div>
-        <div class="view"><a href="https://github.com/Human-Phenotype-Ontology">Developers</a></div>
-        <div class="view"><a href="https://github.com/Human-Phenotype-Ontology">License</a></div>
-        <div class="view"><a href="https://github.com/Human-Phenotype-Ontology">...</a></div>
-
-      </header>
-      <section>
-        <h3>
-<a id="the-human-phenotype-ontology" class="anchor" href="#the-human-phenotype-ontology" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Human Phenotype Ontology</h3>
-
-<p>The HPO is currently being developed using the medical literature, Orphanet, DECIPHER, and OMIM. 
-HPO currently contains approximately 11,000 terms and over 115,000 annotations to hereditary diseases. 
-All data is <a href="https://compbio.charite.de/hudson/">available for download</a> or can 
-be browsed online (please see <a href="http://nar.oxfordjournals.org/content/42/D1/D966.full">this publication</a> first)</p>
-
-<h3>
-<a id="homepage" class="anchor" href="#homepage" aria-hidden="true"><span class="octicon octicon-link"></span></a>Homepage</h3>
-
-<p>The Homepage is currently under construction. In urgent cases, please contact Sebastian Köhler or Peter Robinson. Tickets can
-be posted on our <a href='https://github.com/obophenotype/human-phenotype-ontology/issues'>Github-Tracker</a></p>
-      </section>
-      <footer>
-        <p><small>Copyright - The Human Phenotype Ontology Project (2015)</small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-  </body>
-</html>
+---
+layout: home
+title: Home
+sitemap:
+priority: 1.0
+changefreq: weekly
+lastmod: 2014-07-07T16:57:30+05:30
+---
+{% for post in paginator.posts %}
+<div class="unit whole single-post-excerpt">
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<div class="meta-info">
+		<span class="meta"><time class="timeago postlist-meta" datetime="{{ post.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar"></i>{{ post.date | date: "%B %-d, %Y" }}</time></span>
+		{% if post.tags and post.tags.size > 0 %}
+			<div class="tags">
+				Tagged:
+				{% for tag in post.tags %}
+				<span><i class="fa fa-tag"></i>{{ tag }}</span>
+				{% endfor %}
+			</div>
+		{% endif %}
+	</div>
+	<p class="description">{{ post.excerpt | strip_html}}</p>
+</div>
+{% endfor %}
+<div class="unit whole paginator">
+	{% if paginator.previous_page %}
+	<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+	{% endif %}
+	<span>Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	{% if paginator.next_page %}
+	<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+	{% endif %}
+</div>

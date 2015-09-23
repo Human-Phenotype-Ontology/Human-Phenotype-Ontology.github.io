@@ -1,0 +1,32 @@
+##The website title
+name: Human Phenotype Ontology
+##Markdown processor
+markdown: kramdown
+##syntax highlighter. change it to pygments
+highlighter: pygments
+
+##define base_url for valid usage in sitemap.xml and robots.txt
+base_url: http://human-phenotype-ontology.github.io
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 5
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: Homepage for the Human Phenotype Ontology Project and related resources.
+##Some frequently used keywords on your website
+keywords: human, phenotype, ontology, OWL, human genetics, common disease, pathophysiology
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
+
+##Some commonly used links
+links:
+  twitter: hp_ontology
+  github: obophenotype/human-phenotype-ontology
+  tracker: https://github.com/obophenotype/human-phenotype-ontology/issues
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+about_image: placeholder.jpg
+##comment this if you want full width posts with no sidebar
+sidebar: on
