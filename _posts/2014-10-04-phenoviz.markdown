@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "PhenogramViz"
+date:   2014-10-04 20:00:00
+categories: 
+---
+
+## Phenotype-driven CNV analysis
+
+We have used HPO and Uberpheno for phenotype-driven analyses of CNV data. The paper got published in [Journal of medical genetics](http://jmg.bmj.com/content/early/2014/10/03/jmedgenet-2014-102633.short).

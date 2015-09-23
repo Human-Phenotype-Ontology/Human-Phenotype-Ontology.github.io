@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "HPO goes common"
+date:   2015-05-07 20:00:00
+categories: 
+---
+
+## HPO for common diseases
+
+HPO annotations now available for common diseases! See our new paper in the [American Journal of Human Genetics](http://www.cell.com/ajhg/abstract/S0002-9297(15)00234-7).

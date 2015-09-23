@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "PLoS Biology"
+date:   2015-01-07 20:00:00
+categories: 
+---
+
+## PLoS Biology article
+
+PLoS Biology just published the perspective-article on [Finding Our Way through Phenotypes](http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1002033)
