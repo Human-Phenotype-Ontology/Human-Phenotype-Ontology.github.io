@@ -10,7 +10,7 @@ base_url: http://human-phenotype-ontology.github.io
 sass:
   sass_dir: _sass
   style: :compressed
-paginate: 5
+paginate: 4
 paginate_path: "page:num"
 ##The website description (to be used in meta tags)
 description: Homepage for the Human Phenotype Ontology Project and related resources.
@@ -24,7 +24,6 @@ keywords: human, phenotype, ontology, OWL, human genetics, common disease, patho
 ##Some commonly used links
 links:
   twitter: hp_ontology
-  github: obophenotype/human-phenotype-ontology
   tracker: https://github.com/obophenotype/human-phenotype-ontology/issues
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg

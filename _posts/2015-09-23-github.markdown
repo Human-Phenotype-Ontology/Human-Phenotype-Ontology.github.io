@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Moved to Github"
+date:   2015-09-23 20:00:00
+categories: 
+---
+
+## Moved the HPO and its issue tracker
+
+We have moved the HPO to Github. For users of HPO this is important if you want to file a ticket regarding an
+improvement or bugfix in HPO. We previously had a sourceforge-tracker for this. This is now available on [Github](https://github.com/obophenotype/human-phenotype-ontology/issues). You
+might need to create a Github account in order to create a ticket.
