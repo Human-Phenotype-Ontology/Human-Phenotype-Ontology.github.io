@@ -7,10 +7,12 @@ sitemap:
     lastmod: 2015-09-23T16:31:30+05:30
 ---
 
-See who
+This page lists the
 
  - [Creators and managers of HPO](#creators)
- - [Uses HPO](#users)
+ - [Users HPO](#users)
+ - [Publications using HPO](#papers)
+ 
 
 
 ## <a name="creators"></a> The creators of HPO
@@ -113,8 +115,9 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  * Bio-LarK
  * GEPADO – Software Solutions for Genetics - GmbH
  
-###Featured Publications
+## <a name="papers"></a> Selected papers that use HPO
 
+ * A Kundaje, W Meuleman, J Ernst, M Bilenky et al. "Integrative analysis of 111 reference human epigenomes" Nature (2015) 518,317–330  
  * Zemojtel, Tomasz, et al. "Effective diagnosis of genetic disease by computational phenotype analysis of the disease-associated genome." Science translational medicine 6.252 (2014): 252ra123-252ra123.
  * Robinson, Peter N., et al. "Improved exome prioritization of disease genes through cross-species phenotype comparison." Genome research 24.2 (2014): 340-348.
  * Köhler, Sebastian, et al. "Clinical interpretation of CNVs with cross-species phenotype data." Journal of medical genetics 51.11 (2014): 766-772.
