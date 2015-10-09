@@ -9,8 +9,8 @@ sitemap:
 # About
 An ontology is a computational representation of a domain of knowledge based upon a controlled, standardized vocabulary for describing entities and the semantic relationships between them. 
 
-The Human Phenotype Ontology (HPO) aims to provide a standardized vocabulary of phenotypic abnormalities encountered in human disease. Terms in the HPO describes a phenotypic abnormality, such as atrial septal defect.
-The HPO is currently being developed using the medical literature, Orphanet, DECIPHER, and OMIM. HPO currently contains approximately 11,000 terms and over 115,000 annotations to hereditary diseases. We also have a huge set of HPO annotations to approx. 4000 common diseases.
+The Human Phenotype Ontology (HPO) aims to provide a standardized vocabulary of phenotypic abnormalities encountered in human disease. Each term in the HPO describes a phenotypic abnormality, such as atrial septal defect.
+The HPO is currently being developed using the medical literature, Orphanet, DECIPHER, and OMIM. HPO currently contains approximately 11,000 terms and over 115,000 annotations to hereditary diseases. The HPO also provides a large set of HPO annotations to approximately 4000 common diseases.
 
 All of our data is available for download or can be browsed online, but please refer to [this publication](http://nar.oxfordjournals.org/content/42/D1/D966.full) before.
  
