@@ -40,7 +40,7 @@ These files will be updated at regular intervals (once every month). The links a
 
 [Pablo Lapunzina M.D., Ph.D.](http://www.ciberer.es/fichagrupos/grupo.aspx?unidad=U753), director of the Instituto de Genética Médica y Molecular (INGEMM) of the Universidad Autónoma de Madrid, Spain, has coordinated the development of a Spanish translation of the HPO. The HPO team says: **¡Muchas gracias!** 
 
-We offer an Excel file with the translation for download, and will be incorporating the data and future updates into a file that can be used with Protege.
+[We offer an Excel file](http://compbio.charite.de/tl_files/HPO/HPO-Spanish.xlsx) with the translation for download, and will be incorporating the data and future updates into a file that can be used with Protege.
 
 ### Mappings
 The HPO team (Sandra, Peter, Sebastian) has developed a mapping between the categories of the London Dysmorphology Database (LDDB), which is an important 
