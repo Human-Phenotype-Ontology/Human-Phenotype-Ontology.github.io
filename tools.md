@@ -9,7 +9,7 @@ sitemap:
 
 #HPO Browser
 
-For every term in the HPO a website exists. See e.g. [http://www.human-phenotype-ontology.org/hpoweb?id=HP:0000018](http://www.human-phenotype-ontology.org/hpoweb?id=HP:0000018)
+The HPO Browser has a separate page for every term in the HPO. The following page, for instance, is for the root term: [http://www.human-phenotype-ontology.org/hpoweb?id=HP:0000118](http://www.human-phenotype-ontology.org/hpoweb?id=HP:0000118).
 
 *PhenExplorer*: The PhenExplorer has been superceded by the new HPO browser, which has all the functionalities of 
 PhenExplorer and has additional features such as Excel-Exports
