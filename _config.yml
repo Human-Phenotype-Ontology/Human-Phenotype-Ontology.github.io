@@ -25,6 +25,9 @@ keywords: human, phenotype, ontology, OWL, human genetics, common disease, patho
 links:
   twitter: hp_ontology
   tracker: https://github.com/obophenotype/human-phenotype-ontology/issues
+  browser: http://www.human-phenotype-ontology.org/hpoweb?id=HP:0000118
+  github: https://github.com/obophenotype/human-phenotype-ontology
+  
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar

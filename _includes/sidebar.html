@@ -10,8 +10,8 @@
 			{% endif %}
 		</p>
 		<ul class="links">
-			{% if site.links.github %}
-				<li><a href="https://github.com/{{ site.links.github }}" target="_blank">Github</a></li>
+			{% if site.links.browser %}
+				<li><a href="https://github.com/{{ site.links.browser }}" target="_blank">Browser</a></li>
 			{% endif %}
 			{% if site.links.twitter %}
 				<li><a href="https://twitter.com/{{ site.links.twitter }}" target="_blank">Twitter</a></li>
@@ -21,6 +21,9 @@
 			{% endif %}
 			{% if site.links.email %}
 				<li><a href="mailto:{{ site.links.email }}">Contact Me</a></li>
+			{% endif %}
+			{% if site.links.github %}
+				<li><a href="https://github.com/{{ site.links.github }}" target="_blank">Github</a></li>
 			{% endif %}
 		</ul>
 	</div>
