@@ -8,6 +8,7 @@ categories:
 ## Genetics in Medicine article
 
 Together with 
+
  * William Bone and William Gahl and others from [Undiagnosed Diseases Program](http://www.genome.gov/27544402), 
  * the [Monarch team](https://monarchinitiative.org/) and 
  * colleagues from the Centre for Computational Medicine Hospital for Sick Children in Toronto  
