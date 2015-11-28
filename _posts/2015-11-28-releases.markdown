@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Release policy"
+date:   2015-11-17 20:00:00
+categories: 
+---
+
+## HPO releases
+
+We are changing our policy with respect to HPO releases. This will affect both, the ontology data, as well as the annotation files. Previously, every edit that was made, resulted in a 'release'.
+
+Now every edit is checked for consistency (using [Travis](https://travis-ci.org/obophenotype/human-phenotype-ontology)), but we will only create a new release on our [Hudson/Jenkins server](http://compbio.charite.de/hudson) in larger but regular intervals. We aim at releases about once or twice a month.
+
+Note, that all of this will change again in the month to come, when we will be switching to [github-releases](https://github.com/blog/1547-release-your-software). 
+
+For all users that use the PURLs for accessing the ontology data this will not be a problem (http://purl.obolibrary.org/obo/hp.obo and
+http://purl.obolibrary.org/obo/hp.owl).
+
+Please contact me if you have any questions (dr.sebastian.koehler@gmail.com).
