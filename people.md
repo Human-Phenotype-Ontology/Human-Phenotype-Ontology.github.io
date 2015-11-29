@@ -42,7 +42,7 @@ We have been working with multiple people from the Sanger Institute, Hinxton, es
 - Damian Smedley
 - Helen Firth
 
-In recent year on of our major partner became the OHSU, Oregon 	 
+In recent year on of our major partners became the OHSU, Oregon 	 
 
 - Melissa Haendel
 - Nicole Vasilevsky
@@ -117,6 +117,8 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  
 ## <a name="papers"></a> Selected papers that use HPO
 
+ * D Smedley, et al. "Next-generation diagnostics and disease-gene discovery with the Exomiser" Nature Protocols (2015)
+ * N Akawi, et al. "Discovery of four recessive developmental disorders using probabilistic genotype and phenotype matching among 4,125 families" Nature Genetics (2015) 47  
  * A Kundaje, W Meuleman, J Ernst, M Bilenky et al. "Integrative analysis of 111 reference human epigenomes" Nature (2015) 518,317–330  
  * Zemojtel, Tomasz, et al. "Effective diagnosis of genetic disease by computational phenotype analysis of the disease-associated genome." Science translational medicine 6.252 (2014): 252ra123-252ra123.
  * Robinson, Peter N., et al. "Improved exome prioritization of disease genes through cross-species phenotype comparison." Genome research 24.2 (2014): 340-348.
