@@ -27,7 +27,7 @@ The annotation files (e.g. phenotype_annotation.tab) from our
 
 ### Database
 The HPO can also be obtained in the form of a database. The most recent dump of this DB can be [obtained from here](http://compbio.charite.de/hudson/job/hpo.annotations.monthly/lastStableBuild/).
-There are also some [Documentation-files](/data/db) available. If you have problems or questions related to the database version of the HPO, contact [Sebastian](http://drseb.github.io/). 
+There are also some [Documentation-files](https://github.com/Human-Phenotype-Ontology/Human-Phenotype-Ontology.github.io/tree/master/data/db) available. If you have problems or questions related to the database version of the HPO, contact [Sebastian](http://drseb.github.io/). 
 
 
 ### Genes
