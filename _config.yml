@@ -5,6 +5,9 @@ markdown: kramdown
 ##syntax highlighter. change it to pygments
 highlighter: pygments
 
+gems:
+  - jekyll-paginate
+
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: http://human-phenotype-ontology.github.io
 sass:
