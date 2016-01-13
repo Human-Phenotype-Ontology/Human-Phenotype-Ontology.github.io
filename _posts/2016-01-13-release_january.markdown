@@ -19,7 +19,7 @@ This new release comes with a lot of changes:
 - fix typos 
 - fix lists of synonyms 
 
-Please have a look at the [List of closed issues](https://github.com/obophenotype/human-phenotype-ontology/issues?utf8=%E2%9C%93&q=is%3Aissue+closed%3A%222015-12-01..2016-01-13%22) and [list of commits](https://github.com/obophenotype/human-phenotype-ontology/compare/master@%7B2015-12-01%7D...master@%7B2016-01-13%7D) for more details.
+Please have a look at the [list of closed issues](https://github.com/obophenotype/human-phenotype-ontology/issues?utf8=%E2%9C%93&q=is%3Aissue+closed%3A%222015-12-01..2016-01-13%22) and [list of commits](https://github.com/obophenotype/human-phenotype-ontology/compare/master@%7B2015-12-01%7D...master@%7B2016-01-13%7D) for more details.
 
 
 
