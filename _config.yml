@@ -35,3 +35,6 @@ links:
 about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar
 sidebar: on
+
+ga_id: UA-62837903-6
+ga_domain: auto

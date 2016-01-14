@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HPO got IRDiRC recommended"
+date:   2016-01-14 09:00:00
+categories: 
+---
+
+## HPO got IRDiRC recommended status
+
+We are proud to announce that the HPO got the status of [IRDiRC recommended](http://www.irdirc.org/activities/irdirc-recommended/). This labels is used by IRDiRC to highlight 
+key resources which, if used more broadly, would accelerate the pace of discoveries and translation into clinical services.
+
+<a href="http://www.irdirc.org/activities/irdirc-recommended/"><img src="http://www.irdirc.org/wp-content/uploads/2015/03/IRDiRC_Recommended.jpg" height="200px" alt="Avatar" style="border:3px solid darkgrey"></a>
