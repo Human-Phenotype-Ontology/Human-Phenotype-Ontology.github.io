@@ -30,5 +30,5 @@ Please have a look at [PhenIX](http://compbio.charite.de/PhenIX/) and [Exomiser]
 
 ###Phenotype-driven interpretation of Copy-number variation
 
-[PhenogramViz](http://charite.github.io/software-phenoviz/) helps to visually explore gene-to-phenotype relations in CNVs. It also prioritzes 
+[PhenogramViz](http://charite.github.io/software-phenoviz.html) helps to visually explore gene-to-phenotype relations in CNVs. It also prioritzes 
 pathogenic CNVs.
