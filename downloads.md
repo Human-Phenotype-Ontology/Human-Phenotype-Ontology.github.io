@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2015-09-24T16:31:30+05:30
 ---
 
-#Downloads
+# Downloads
 
 ### Ontology
 In general, users should always use the PURL (persistent URL) to access the HPO-data, i.e.

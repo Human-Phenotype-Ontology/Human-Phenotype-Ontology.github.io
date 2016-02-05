@@ -71,7 +71,7 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
 
 ## <a name="users"></a> The users of HPO
 
-###Consortia/Projects using HPO
+### Consortia/Projects using HPO
 
  * NIH Undiagnosed disease program (UDP)
  * FORGE (Genome Canada)
@@ -93,7 +93,7 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  * Gen2Phen
  * RD-Connect
  
-###Tools using HPO
+### Tools using HPO
 
  * Phenomizer
  * BOQA

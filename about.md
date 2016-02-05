@@ -6,7 +6,10 @@ sitemap:
     changefreq: weekly
     lastmod: 2015-09-23T16:31:30+05:30
 ---
+
 # About
+
+
 An ontology is a computational representation of a domain of knowledge based upon a controlled, standardized vocabulary for describing entities and the semantic relationships between them. 
 
 The Human Phenotype Ontology (HPO) aims to provide a standardized vocabulary of phenotypic abnormalities encountered in human disease. Each term in the HPO describes a phenotypic abnormality, such as atrial septal defect.
