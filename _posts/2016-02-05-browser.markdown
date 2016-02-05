@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "HPO browser updated"
+date:   2016-02-05 09:00:00
+categories: 
+---
+
+## New layout for the HPO browser
+
+Please note that the HPO browser has a new layout. [Give it a try](http://www.human-phenotype-ontology.org/hpoweb?id=HP:0000501).
