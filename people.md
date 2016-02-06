@@ -97,8 +97,8 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
 
  * Phenomizer
  * BOQA
- * Exomiser
- * PhenoTips
+ * [Exomiser](http://www.sanger.ac.uk/science/tools/exomiser)
+ * [PhenoTips](https://phenotips.org/)
  * MORPHIN (Model Organisms Projected on a Human Integrated Gene Network)
  * PhenoDigm
  * Uberpheno
@@ -118,6 +118,7 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  * Skeletome KB
  * Bio-LarK
  * GEPADO – Software Solutions for Genetics - GmbH
+ * [OMIM Explorer](http://omimexplorer.research.bcm.edu)
  
 ## <a name="papers"></a> Selected papers that use HPO
 
