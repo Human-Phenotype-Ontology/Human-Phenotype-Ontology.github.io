@@ -99,7 +99,7 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  * BOQA
  * [Exomiser](http://www.sanger.ac.uk/science/tools/exomiser)
  * [PhenoTips](https://phenotips.org/)
- * MORPHIN (Model Organisms Projected on a Human Integrated Gene Network)
+ * [MORPHIN (Model Organisms Projected on a Human Integrated Gene Network)](http://www.inetbio.org/morphin/)
  * [PhenoDigm](http://www.sanger.ac.uk/resources/databases/phenodigm/)
  * Uberpheno
  * [Phevor](http://weatherby.genetics.utah.edu/cgi-bin/Phevor/PhevorWeb.html)
