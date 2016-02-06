@@ -105,7 +105,7 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  * [Phevor](http://weatherby.genetics.utah.edu/cgi-bin/Phevor/PhevorWeb.html)
  * [Face2Gene](http://www.fdna.com/face2gene/)
  * [WebGestalt](http://bioinfo.vanderbilt.edu/webgestalt/)
- * Superfamily Structural classification of protein
+ * [Superfamily Structural classification of protein](http://supfam.org/SUPERFAMILY/)
  * [ToppGene](https://toppgene.cchmc.org/)
  * [PhenoVar](http://phenovar-dev.udes.genap.ca/)
  * [Phen-Gen](http://phen-gen.org/)
@@ -115,7 +115,7 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  * [GREAT](http://bejerano.stanford.edu/great/public/html/)
  * [PhenomeNet](http://phenomebrowser.net/)
  * [HeTOP](http://www.hetop.eu/hetop/)
- * Skeletome KB
+ * [Skeletome KB](http://knowledge.skeletome.org/)
  * [Bio-LarK](http://bio-lark.org/)
  * [GEPADO – Software Solutions for Genetics - GmbH](http://gepado.de/en/)
  * [OMIM Explorer](http://omimexplorer.research.bcm.edu)
