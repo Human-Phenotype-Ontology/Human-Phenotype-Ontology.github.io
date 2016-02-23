@@ -36,7 +36,7 @@ These files will be updated at regular intervals (once every month). The links a
 
 
 
-###Spanish Translation of the HPO
+### Spanish Translation of the HPO
 
 [Pablo Lapunzina M.D., Ph.D.](http://www.ciberer.es/fichagrupos/grupo.aspx?unidad=U753), director of the Instituto de Genética Médica y Molecular (INGEMM) of the Universidad Autónoma de Madrid, Spain, has coordinated the development of a Spanish translation of the HPO. The HPO team says: **¡Muchas gracias!** 
 
