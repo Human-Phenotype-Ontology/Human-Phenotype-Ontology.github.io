@@ -12,9 +12,6 @@ This page is split into:
  - [Introduction](#intro)
  - [Annotation guide](#annot)
  - [Logical definitions](#defs)
- - [How to collaborate](#collab)
- - [Phenotype-to-Gene vs. Gene-to-Phenotype](#p2gvsg2p)
-
 
 
 
@@ -127,39 +124,4 @@ It is expected that software does not depend on the qualifiers being listed in a
 Unless we instruct the computer otherwise, there is no implication that an HPO term such as *Cerebral calcification* is somehow related to the *human brain*. The HPO term can be related to other terms in the ontology by subclass relations, but it is not explicitly related to concepts from anatomy, histology, pathology, biochemistry, and cellular physiology. For this reason, a consortium including Sandra Dölken, Sebastian Köhler, and Peter N Robinson from the Institute of Human Genetics and Medical Genetics of the Charité Berlin, Chris Mungall and Suzi Lewis from the Berkely Bioinformatics Open Source Projects group, Barbara Ruef and Monte Westerfield from the Zebrafish Model Organism Database (ZFIN), and Melissa Haendel, Nicole Vasilevsky and Mark Engelstad from the Oregon Health & Science University has joined forces to develop computer-readable logical definitions of HPO terms that will allow human phenotypic abnormalities to be related to entities from anatomy, pathology, physiology, biochemistry, and other areas.
 
 We are creating the definitions using the [Phenotypic Quality Ontology (PATO)](http://obofoundry.org/wiki/index.php/PATO:Main_Page). We logically define phenotypes by stating that classes in the HPO are logically equivalent to Entity/Quality descriptions, with each such description consisting of the following elements: Q, the type of quality (characteristic) that the genotype affects; E, the type of entity that bears the quality; E2, an additional optional entity type, for relational qualities; M, a modifier. The basic methodology has been described [in this paper](http://f1000research.com/articles/2-30/v2).
-
-
-
-## <a name="collab"></a> How to collaborate with the HPO
-
- 
-We welcome the participation of interested colleagues. We anticipate that the structure of the HPO will continue to be refined and completed for some time to come. Groups or persons with expert knowledge in a particular domain of human phenotyping in a medical genetics setting are invited to contribute their knowledge on a collaborative basis. Please contact Peter Robinson or Sebastian Köhler to discuss details.
- 
-We are currently transitioning from annotations dervied in a semiautomated fashion from the OMIM database to curated annotations. Given the number of human hereditary diseases, this is no small task. We greet participation of colleagues with an interest in specific hereditary diseases to improve the annotations for 'their' disease. Please get in contact with us (Peter Robinson or Sebastian Köhler) to discuss this form of collaboration. We are also preparing an online form for manual annotations.
- 
-The issue tracker is [available on Github](https://github.com/obophenotype/human-phenotype-ontology/issues).
-
-
-## <a name="p2gvsg2p"></a> Difference between *genes\_to\_phenotypes.txt* and *phenotype\_to\_genes.txt*
-
-A question that is asked very often, deals with the asymmetriy of the files:
-
- - *genes\_to\_phenotypes.txt* 
- - *phenotype\_to\_genes.txt*
- 
-The difference is that one files uses the transitivity of the annotations and the other does not. I.e. in *genes\_to\_phenotypes.txt*  we list for each gene the most specific HPO-classes (and not all the ancestors). 
-In *phenotype\_to\_genes.txt* we show each phenotype that has at least one gene associated with it. Additionally, we have mapped the genes to all its the ancestor classes. 
-For example given that: 
- 
- - *HP_1* subclass_of *HP_3*
- - *HP_2* subclass_of *HP_3* 
-
-and *genes\_to\_phenotypes.txt* contains
-
- -  **geneA** annotated to *HP_1*
- -  **geneB** annotated to *HP_2*
-
-then *phenotype\_to\_genes.txt* contains: 
-
- - *HP_3* annotates  **geneA** and **geneB** 
 
