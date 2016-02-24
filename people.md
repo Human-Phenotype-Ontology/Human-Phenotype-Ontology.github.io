@@ -95,29 +95,30 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  
 ### Tools using HPO
 
- * Phenomizer
+ * [Phenomizer](compbio.charite.de/phenomizer)
  * BOQA
- * Exomiser
- * PhenoTips
- * MORPHIN (Model Organisms Projected on a Human Integrated Gene Network)
- * PhenoDigm
+ * [Exomiser](http://www.sanger.ac.uk/science/tools/exomiser)
+ * [PhenoTips](https://phenotips.org/)
+ * [MORPHIN (Model Organisms Projected on a Human Integrated Gene Network)](http://www.inetbio.org/morphin/)
+ * [PhenoDigm](http://www.sanger.ac.uk/resources/databases/phenodigm/)
  * Uberpheno
- * Phevor
- * Face2Gene
- * WebGestalt
- * Superfamily Structural classification of protein
- * ToppGene
- * PhenoVar
- * Phen-Gen
- * Cartagenia
- * eXtasy
- * KnoSYS100
- * GREAT
- * PhenomeNet
- * HeTOP
- * Skeletome KB
- * Bio-LarK
- * GEPADO – Software Solutions for Genetics - GmbH
+ * [Phevor](http://weatherby.genetics.utah.edu/cgi-bin/Phevor/PhevorWeb.html)
+ * [Face2Gene](http://www.fdna.com/face2gene/)
+ * [WebGestalt](http://bioinfo.vanderbilt.edu/webgestalt/)
+ * [Superfamily Structural classification of protein](http://supfam.org/SUPERFAMILY/)
+ * [ToppGene](https://toppgene.cchmc.org/)
+ * [PhenoVar](http://phenovar-dev.udes.genap.ca/)
+ * [Phen-Gen](http://phen-gen.org/)
+ * [Cartagenia BENCH](https://cartagenia.com/)
+ * [eXtasy](http://extasy.esat.kuleuven.be/)
+ * [KnoSYS100](http://www.knome.com/knosys/)
+ * [GREAT](http://bejerano.stanford.edu/great/public/html/)
+ * [PhenomeNet](http://phenomebrowser.net/)
+ * [HeTOP](http://www.hetop.eu/hetop/)
+ * [Skeletome KB](http://knowledge.skeletome.org/)
+ * [Bio-LarK](http://bio-lark.org/)
+ * [GEPADO – Software Solutions for Genetics - GmbH](http://gepado.de/en/)
+ * [OMIM Explorer](http://omimexplorer.research.bcm.edu)
  
 ## <a name="papers"></a> Selected papers that use HPO
 
