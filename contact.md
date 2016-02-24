@@ -13,7 +13,7 @@ sitemap:
 
 Please do not hesitate to contact us if you have any further questions:
 
- - Sebastian Köhler sebastian.koehler@charite.de
- - Peter Robsinson peter.robinson@charite.de
+ * Sebastian Köhler sebastian.koehler@charite.de
+ * Peter Robsinson peter.robinson@charite.de
 
 
