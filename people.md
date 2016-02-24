@@ -1,81 +1,20 @@
 ---
 layout: page
-title: People
+title: Users
 sitemap:
     priority: 1.0
     changefreq: weekly
     lastmod: 2015-09-23T16:31:30+05:30
 ---
 
-This page lists the
-
- - [Contact](#contact)
- - [Creators and managers of HPO](#creators)
- - [Users HPO](#users)
- - [Publications using HPO](#papers)
- 
-## <a name="contact"></a> Contact
-
-Please contact us at sebastian.koehler@charite.de or peter.robinson@charite.de
-
-
-## <a name="creators"></a> The creators of HPO
-
-In 2008 we started to create the HPO at the Charité, Berlin, Germany. This included:
-
-- Peter Robinson
-- Sebastian Köhler
-- Sebastian Bauer
-- Sandra Doelken
- 	
-Soon after its creation, the HPO got generous support from the LBNL, Berkeley, namely:
-
-- Chris Mungall
-- Suzi Lewis
-- Nicole Washington
- 	 	 
-In parallel we had strong support from people from the University of Cambridge:
-
-- Michael Ashburner
-- Paul Schofield
-- George Gkoutos
-- Willem H Ouwehand
- 	 	 
-We have been working with multiple people from the Sanger Institute, Hinxton, especially
-
-- Damian Smedley
-- Helen Firth
-
-In recent year on of our major partners became the OHSU, Oregon 	 
-
-- Melissa Haendel
-- Nicole Vasilevsky
-- Mark Engelstad
- 	
-We are working in collabration with the creators of the Mammalian Phenotype Ontology (JAX labs), mostly
-
- - Cynthia Smith
-
-We have been working a lot with the The Zebrafish Model Organism Database
-
-- Monte Westerfield
-- Barbara Ruef
-- Yvonne Bradford
-
-Lately, we started to collaborate with people from the Garvan Institute of Medical Research in Australia, especially
-
-- Tudor Groza
-
-
-*The HPO is working in close collaboration with the [Monarch Initiative](http://monarchinitiative.org/) and [PhenoTips](https://phenotips.org/).*
-
-## <a name="users"></a> The users of HPO
+## The users of HPO
 
 ### Consortia/Projects using HPO
 
- * NIH Undiagnosed disease program (UDP)
- * FORGE (Genome Canada)
  * Monarch Initiative
+ * NIH Undiagnosed disease program (UDP)
+ * Orphanet
+ * FORGE (Genome Canada)
  * Mouse Genome Informatics (MGI)
  * Genomics England
  * ECARUCA
@@ -88,10 +27,11 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  * RIKEN
  * NCBI ClinVar
  * MedSeq
- * Orphanet
+
  * Sequence Ontology/GVF
  * Gen2Phen
  * RD-Connect
+ * Gene2MP
  
 ### Tools using HPO
 
@@ -120,7 +60,7 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
  * [GEPADO – Software Solutions for Genetics - GmbH](http://gepado.de/en/)
  * [OMIM Explorer](http://omimexplorer.research.bcm.edu)
  
-## <a name="papers"></a> Selected papers that use HPO
+##  Selected papers that use HPO
 
  * D Smedley, et al. "Next-generation diagnostics and disease-gene discovery with the Exomiser" Nature Protocols (2015)
  * N Akawi, et al. "Discovery of four recessive developmental disorders using probabilistic genotype and phenotype matching among 4,125 families" Nature Genetics (2015) 47  
