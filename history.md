@@ -57,5 +57,4 @@ Lately, we started to collaborate with people from the Garvan Institute of Medic
 - Tudor Groza
 
 
-*The HPO is developed within the context of the [Monarch Initiative](http://monarchinitiative.org/) and [PhenoTips](https://phenotips.org/).*
-
+*The HPO is developed within the context of the [Monarch Initiative](http://monarchinitiative.org/)*
