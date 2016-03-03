@@ -27,7 +27,6 @@ sitemap:
  * RIKEN
  * NCBI ClinVar
  * MedSeq
-
  * Sequence Ontology/GVF
  * Gen2Phen
  * RD-Connect
