@@ -11,11 +11,17 @@ sitemap:
 ##  How to collaborate with the HPO ?
 
  
-We welcome the participation of interested colleagues. We anticipate that the structure of the HPO will continue to be refined and completed for some time to come. Groups or persons with expert knowledge in a particular domain of human phenotyping in a medical genetics setting are invited to contribute their knowledge on a collaborative basis. Please contact Peter Robinson or Sebastian Köhler to discuss details.
+We welcome the participation of interested colleagues. We anticipate that the structure of the HPO will continue to be refined and completed for some time to come. Groups or persons with expert knowledge in a particular domain of human phenotyping in a medical genetics setting are invited to contribute their knowledge on a collaborative basis. Please [contact us](contact.html) to discuss details.
  
-We are currently transitioning from annotations dervied in a semiautomated fashion from the OMIM database to curated annotations. Given the number of human hereditary diseases, this is no small task. We greet participation of colleagues with an interest in specific hereditary diseases to improve the annotations for 'their' disease. Please get in contact with us (Peter Robinson or Sebastian Köhler) to discuss this form of collaboration. We are also preparing an online form for manual annotations.
+We are currently transitioning from annotations derived in a semiautomated fashion from the OMIM database to curated annotations. Given the number of human hereditary diseases, this is no small task. We greet participation of colleagues with an interest in specific hereditary diseases to improve the annotations for 'their' disease. Please get in [contact with us](contact.html) to discuss this form of collaboration. We are also preparing an online system for manual annotations.
  
 The issue tracker is [available on Github](https://github.com/obophenotype/human-phenotype-ontology/issues).
+
+#### Collaborations for translations
+We are working with several people to translate more content of HPO into a multitude of languages. Several translations are being actively developed at the moment (e.g. german).
+
+The translations are considered a project coordinated by the HPO team and is hosted [on GitHub](https://github.com/Human-Phenotype-Ontology/HPO-translations). 
+Please do not start translating HPO content without contacting us beforehand. This might cause duplicated translations and other problems. Please [contact us here](contact.html).
 
 
 ## What is the difference between *genes\_to\_phenotypes.txt* and *phenotype\_to\_genes.txt* ?

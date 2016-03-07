@@ -18,7 +18,7 @@ The HPO is currently being developed using the medical literature, Orphanet, DEC
 All of our data is available for download or can be browsed online, but please read the [license](/license.html) and please read [this publication](http://nar.oxfordjournals.org/content/42/D1/D966.full) before.
  
  
-The HPO is now being developed at the Charité Berlin and with the [Monarch Initiative](http://monarchinitiative.org/), and logical definitions for HPO terms are being developed using PATO and a number of other OBO Foundry ontologies including UBERON, GO, ChEBI, and others. 
+The HPO is now being developed at the [Charité Berlin](http://compbio.charite.de) and with the [Monarch Initiative](http://monarchinitiative.org/), and logical definitions for HPO terms are being developed using PATO and a number of other OBO Foundry ontologies including UBERON, GO, ChEBI, and others. 
 
 The HPO can be used for clinical diagnostics in human genetics ([Phenomizer](https://compbio.charite.de/phenomizer/)), bioinformatics research on the relationships between human phenotypic abnormalities and cellular and biochemical networks, for mapping between human and model organism phenotypes, and for providing a standardized vocabulary for clinical databases, among many other things. There exists an [HPO web browser](http://www.human-phenotype-ontology.org/hpoweb/showterm?id=HP:0001197).
 The HPO project encourages input from the medical and genetics community with regards to the ontology itself and to clinical annotations.

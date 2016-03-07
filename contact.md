@@ -14,6 +14,6 @@ sitemap:
 Please do not hesitate to contact us if you have any further questions:
 
  * [Sebastian Köhler](http://drseb.github.io/) (sebastian.koehler@charite.de)
- * [Peter Robinson](http://charite.github.io/) (peter.robinson@charite.de)
+ * [Peter Robinson](http://compbio.charite.de/) (peter.robinson@charite.de)
 
 
