@@ -13,7 +13,7 @@ sitemap:
 
 Please do not hesitate to contact us if you have any further questions:
 
- * Sebastian Köhler [sebastian.koehler@charite.de](http://drseb.github.io/)
- * Peter Robsinson [peter.robinson@charite.de](http://charite.github.io/)
+ * [Sebastian Köhler](http://drseb.github.io/) (sebastian.koehler@charite.de)
+ * [Peter Robinson](http://charite.github.io/) (peter.robinson@charite.de)
 
 
