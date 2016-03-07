@@ -36,11 +36,16 @@ These files will be updated at regular intervals (once every month). The links a
 
 
 
-### Spanish Translation of the HPO
+### Translation of the HPO
 
-[Pablo Lapunzina M.D., Ph.D.](http://www.ciberer.es/fichagrupos/grupo.aspx?unidad=U753), director of the Instituto de Genética Médica y Molecular (INGEMM) of the Universidad Autónoma de Madrid, Spain, has coordinated the development of a Spanish translation of the HPO. The HPO team says: **¡Muchas gracias!** 
+We do have translations of the HPO labels into spanish (**¡Muchas gracias!** to Pablo Lapunzina M.D., Ph.D. and colleagues) and italian. 
+We are working with several people to translate more content of HPO into a multitude of languages. 
+Several translations are being actively developed at the moment (e.g. german).
 
-[We offer an Excel file](http://compbio.charite.de/tl_files/HPO/HPO-Spanish.xlsx) with the translation for download, and will be incorporating the data and future updates into a file that can be used with Protege.
+The translation are considered a separate project coordinated by the HPO team and is hosted [on GitHub](https://github.com/Human-Phenotype-Ontology/HPO-translations). 
+Please do not start translating HPO content without contacting us beforehand. This might cause duplicated translations and other problems. Please [contact us here](contact.html).
+
+
 
 ### Mappings
 The HPO team (Sandra, Peter, Sebastian) has developed a mapping between the categories of the London Dysmorphology Database (LDDB), which is an important 
