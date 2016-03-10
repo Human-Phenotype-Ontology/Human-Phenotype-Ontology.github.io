@@ -11,7 +11,7 @@ sitemap:
 
  1. The HPO vocabularies, annotation files, tools and documentation are freely available. 
  2. The HPO is copyrighted to protect the integrity of the vocabularies, which means that changes to the HPO vocabularies need to be done by HPO developers. 
-    However, anyone can download the HPO and use the ontologies or other HPO files without license for any purpose under three conditions:
+    However, anyone can download the HPO and use the ontologies or other HPO files under three conditions:
   * That the Human Phenotype Ontology Consortium is **acknowledged** and **cited** properly.
   * That any HPO Consortium file(s) displayed publicly *include the date(s) and/or version number(s)* of the relevant HPO file(s).
   * That neither the content of the HPO file(s) nor the logical relationships embedded within the HPO file(s) be altered in any way. (Content modifications have to be suggested using our [issue tracker]({{ site.links.tracker }}).)
