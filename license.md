@@ -33,3 +33,11 @@ Nucl. Acids Res. (1 January 2014) 42 (D1): D966-D974 doi:10.1093/nar/gkt1026
 ## Citation for products/services
 
 This service/product is using the Human Phenotype Ontology (*version information*). Find out more at [www.human-phenotype-ontology.org](www.human-phenotype-ontology.org).
+
+## Version information
+
+The IRI for HPO releases look like this:
+
+**http://purl.obolibrary.org/obo/hp/releases/2016-01-13/hp.owl**
+
+
