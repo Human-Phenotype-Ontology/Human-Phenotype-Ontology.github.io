@@ -7,7 +7,7 @@ categories:
 
 ## HPO release - April 2016
 
-We have just published a new HPO release for April 2016. This includes the [HPO ontology](http://compbio.charite.de/jenkins/job/hpo/1699/
+We have just published a new HPO release for April 2016. This includes the [HPO ontology](http://compbio.charite.de/jenkins/job/hpo/1700/
 ). 
 
 IMPORTANT: This does NOT include the associated annotations. Due to the recent change of the [OMIM license](http://omim.org/help/agreement), we do not (until further notice) make
