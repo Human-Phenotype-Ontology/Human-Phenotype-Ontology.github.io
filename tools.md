@@ -22,11 +22,14 @@ PhenExplorer and has additional features such as Excel-Exports
 
 ### Phenomizer:
 
+The Phenomizer is available at [http://compbio.charite.de/phenomizer](http://compbio.charite.de/phenomizer).
 
-A web-based application for clinical diagnostics in human genetics using semantic similarity searches in ontologies [Köhler et al., AJHG, October 2009](http://www.ncbi.nlm.nih.gov/pubmed/19800049). 
+It is a web-based application for clinical diagnostics in human genetics using semantic similarity searches in ontologies [Köhler et al., AJHG, October 2009](http://www.ncbi.nlm.nih.gov/pubmed/19800049). 
 The Manual for the Phenomizer can be [found here](/data/phenomizermanual.pdf).
 Note, that since the initial publication *The Phenomizer* has been update to the latest HPO ontology and annotation data. Of course, we also updated the p-values, meaning that the example from the 
 publication (Table 1) is not exactly reproducible anymore. Sorry, for any inconvenience.
+
+You may also try a new beta-prototype using a different algorithm and a different set of diseases and phenotype-associations. (See [http://compbio.charite.de/phenomizer_orphanet](http://compbio.charite.de/phenomizer_orphanet))
 
 ### Phenotype-driven interpretation of NGS results (Exome, Panel, or Whole-genome)
 
