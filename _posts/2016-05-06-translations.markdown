@@ -5,7 +5,7 @@ date:   2016-05-06 10:00:00
 categories: 
 ---
 
-## Translations
+## Translations of HPO into multiple languages
 
 The guys at [crowdin](https://crowdin.com/project/hpo-translation) were so nice to give us a free account to host the translation project for HPO. We
 aim at translating all labels, synonyms and textual definitions into several languages. If you like to help please make an account and apply
