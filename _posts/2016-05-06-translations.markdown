@@ -7,9 +7,11 @@ categories:
 
 ## Translations of HPO into multiple languages
 
-The guys at [crowdin](https://crowdin.com/project/hpo-translation) were so nice to give us a free account to host the translation project for HPO. We
-aim at translating all labels, synonyms and textual definitions into several languages. If you like to help please make an account and apply
-to join a language team. Of course, everybody who puts a significant amount of work will be part of possible publication. This is 
+The guys at [crowdin](https://crowdin.com/project/hpo-translation) were so nice to give us a free account to host the translation project for HPO. 
+
+We aim at translating all labels, synonyms and textual definitions into several languages. If you like to help please make an account and apply
+to join a language team. 
+Of course, everybody who puts a significant amount of work into this, will be part of a possible publication. This is 
 a great chance to improve HPO and increase the usability of this resource for patients and clinicians all over the world.
 
 We already have a lot of content translated to spanish, italian and german (see [our github project](https://github.com/Human-Phenotype-Ontology/HPO-translations) ).
