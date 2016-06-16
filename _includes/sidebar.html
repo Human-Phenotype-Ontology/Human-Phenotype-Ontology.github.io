@@ -10,14 +10,16 @@
 			{% endif %}
 		</p>
 		<ul class="links">
+			
+			{% if site.links.tracker %}
+				<li><a href="{{ site.links.tracker }}" target="_blank">New Term Request</a></li>
+				<li><a href="{{ site.links.tracker }}" target="_blank">Suggest change</a></li>
+			{% endif %}
 			{% if site.links.browser %}
-				<li><a href="{{ site.links.browser }}" target="_blank">Browser</a></li>
+				<li><a href="{{ site.links.browser }}" target="_blank">HPO-Browser</a></li>
 			{% endif %}
 			{% if site.links.twitter %}
 				<li><a href="https://twitter.com/{{ site.links.twitter }}" target="_blank">Twitter</a></li>
-			{% endif %}
-			{% if site.links.tracker %}
-				<li><a href="{{ site.links.tracker }}" target="_blank">Tracker</a></li>
 			{% endif %}
 			{% if site.links.contact %}
 				<li><a href="{{ site.links.contact }}">Contact</a></li>
