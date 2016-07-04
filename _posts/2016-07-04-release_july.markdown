@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New HPO Release (July)"
-date:   2016-07-04 10:00:00
+date:   2016-07-04 08:00:00
 categories: 
 ---
 
