@@ -13,7 +13,7 @@ sitemap:
 
 Please do not hesitate to contact us if you have any further questions:
 
- * [Sebastian Köhler](http://drseb.github.io/) (sebastian.koehler@charite.de)
- * [Peter Robinson](http://compbio.charite.de/) (peter.robinson@charite.de)
+ * [Sebastian Köhler](http://drseb.github.io/) (dr.sebastian.koehler@gmail.com)
+ * [Peter Robinson](https://www.jax.org/research-and-faculty/faculty/peter-robinson) (peter.robinson@jax.org)
 
 
