@@ -95,8 +95,31 @@ It is expected that software does not depend on the qualifiers being listed in a
  5. **HPO ID**: This field is for the HPO identifier for the term attributed to the DB_Object_ID. This field is mandatory, cardinality 1.
  6. **DB:Reference**: This required field indicates the source of the information used for the annotation. This may be the clinical experience of the annotator or may be taken from an article as indicated by a pubmed id. Each collaborating center of the Human Phenotype Ontology consortium is assigned a HPO:Ref id. In addition, if appropriate, a pubmed id for an article describing the clinical abnormality may be used.
  7. **Evidence code**: This required field indicates the level of evidence supporting the annotation. At the kickoff of the HPO, most annotations were extracted by parsing the Clinical Features sections of the omim.txt file. These annotations are assigned the evidence code "IEA" (inferred from electronic annotation). Other codes include "PCS" for published clinical study. This should be used for information extracted from articles in the medical literature. Generally, annotations of this type will include the pubmed id of the published study in the DB:Reference field. Finally, "ICE" can be used for annotations based on individual clinical experience. This may be appropriate for disorders with a limited amount of published data. This must be accompanied by an entry in the DB:Reference field denoting the individual or center performing the annotation together with an identifier. For instance, GH:007 might be used to refer to the seventh such annotation made by a specialist from Gotham Hospital. (assuming the prefix GH has been registered with the HPO). We have also included "ITM" to mark annotations retrieved by text-mining (inferred by text-mining). Finally we have TAS, which stands for "traceable author statement", usually reviews or disease entries (e.g. OMIM) that only refers to the original publication.
- 8. **Onset modifier**: A term-id from the sub-ontology below the term "Age of onset" (HP:0003674).
- 9. **Frequency modifier**: A percentage value reflecting the frequency with that the particular abnormality occurs in patients having the syndrome. Another possibility is to specifiy the number n of patients that have this feature out of the m patients investigated (n of m) If exact data are not available, categories from the following table may also be used for indicating the frequency of a phenotypic feature. As a rough guide, the HPO consortium interprets the following categories as having roughly the following numerical meaning (Table 2). 
+ 8. **Onset modifier**: A term-id from the HPO-sub-ontology below the term "Age of onset" (HP:0003674).
+ 9. **Frequency modifier**: A term-id from the HPO-sub-ontology below the term "Frequency" (HP:0040279). (since December 2016 ; before was a mixture of values). The terms for frequency are in alignment with Orphanet.
+ 10. **With**: This field is not currently used. However, it can be used to enter information about characteristics that go with the remaining annotation. For instance, in order to annotate a co-occurence of two features in some disease, one could add the qualified COOCCURS(17/18) and the identifier of some other characteristic in the WITH field to denote that the HPO term listed in the HPO ID field occurred in 17 of 18 cases of the disease listed in the DB_Object_ID field. In the future, the meaning of this field may be extended to include other information such as (for instance) repeat length in order to correlate, say, average age of onset of symptoms in Huntington disease with the number of CAG repeats in the huntingtin gene.
+ 11. **Aspect**: one of O (Phenotypic abnormality), I (inheritance), C (onset and clinical course) or M (Mortality/Aging). This field is mandatory; cardinality 1
+ 12. **Synonym**: This optional field can be used for a common abbreviation for the disease referred to by the *DB_Object_ID* such as "NF1" for neurofibromatosis type 1 or "MFS" for Marfan syndrome. It can also be used to store alternate names for a disorder. Individual synonyms should be separated by a pipe("\|") symbol.
+ 13. **Date**: Date on which the annotation was made; format is YYYY.MM.DD this field is mandatory, cardinality 1
+ 14. **Assigned by**: This refers to the center or user making the annotation.
+
+
+
+## <a name="defs"></a> Computable Definitions of HPO Terms
+
+Unless we instruct the computer otherwise, there is no implication that an HPO term such as *Cerebral calcification* is somehow related to the *human brain*. The HPO term can be related to other terms in the ontology by subclass relations, but it is not explicitly related to concepts from anatomy, histology, pathology, biochemistry, and cellular physiology. For this reason, a consortium including Sandra Dölken, Sebastian Köhler, and Peter N Robinson from the Institute of Human Genetics and Medical Genetics of the Charité Berlin, Chris Mungall and Suzi Lewis from the Berkely Bioinformatics Open Source Projects group, Barbara Ruef and Monte Westerfield from the Zebrafish Model Organism Database (ZFIN), and Melissa Haendel, Nicole Vasilevsky and Mark Engelstad from the Oregon Health & Science University has joined forces to develop computer-readable logical definitions of HPO terms that will allow human phenotypic abnormalities to be related to entities from anatomy, pathology, physiology, biochemistry, and other areas.
+
+We are creating the definitions using the [Phenotypic Quality Ontology (PATO)](http://obofoundry.org/wiki/index.php/PATO:Main_Page). We logically define phenotypes by stating that classes in the HPO are logically equivalent to Entity/Quality descriptions, with each such description consisting of the following elements: Q, the type of quality (characteristic) that the genotype affects; E, the type of entity that bears the quality; E2, an additional optional entity type, for relational qualities; M, a modifier. The basic methodology has been described [in this paper](http://f1000research.com/articles/2-30/v2).
+
+
+
+
+
+
+
+
+<!-- 
+9. **Frequency modifier**: A percentage value reflecting the frequency with that the particular abnormality occurs in patients having the syndrome. Another possibility is to specifiy the number n of patients that have this feature out of the m patients investigated (n of m) If exact data are not available, categories from the following table may also be used for indicating the frequency of a phenotypic feature. As a rough guide, the HPO consortium interprets the following categories as having roughly the following numerical meaning (Table 2). 
    
     |---
     |Description|Percent of patients |
@@ -111,17 +134,5 @@ It is expected that software does not depend on the qualifiers being listed in a
     hallmark  | 90 %
     obligate  | 100 % 
  
- 10. **With**: This field is not currently used. However, it can be used to enter information about characteristics that go with the remaining annotation. For instance, in order to annotate a co-occurence of two features in some disease, one could add the qualified COOCCURS(17/18) and the identifier of some other characteristic in the WITH field to denote that the HPO term listed in the HPO ID field occurred in 17 of 18 cases of the disease listed in the DB_Object_ID field. In the future, the meaning of this field may be extended to include other information such as (for instance) repeat length in order to correlate, say, average age of onset of symptoms in Huntington disease with the number of CAG repeats in the huntingtin gene.
- 11. **Aspect**: one of O (Phenotypic abnormality), I (inheritance), C (onset and clinical course) or M (Mortality/Aging). This field is mandatory; cardinality 1
- 12. **Synonym**: This optional field can be used for a common abbreviation for the disease referred to by the *DB_Object_ID* such as "NF1" for neurofibromatosis type 1 or "MFS" for Marfan syndrome. It can also be used to store alternate names for a disorder. Individual synonyms should be separated by a pipe("\|") symbol.
- 13. **Date**: Date on which the annotation was made; format is YYYY.MM.DD this field is mandatory, cardinality 1
- 14. **Assigned by**: This refers to the center or user making the annotation.
-
-
-
-## <a name="defs"></a> Computable Definitions of HPO Terms
-
-Unless we instruct the computer otherwise, there is no implication that an HPO term such as *Cerebral calcification* is somehow related to the *human brain*. The HPO term can be related to other terms in the ontology by subclass relations, but it is not explicitly related to concepts from anatomy, histology, pathology, biochemistry, and cellular physiology. For this reason, a consortium including Sandra Dölken, Sebastian Köhler, and Peter N Robinson from the Institute of Human Genetics and Medical Genetics of the Charité Berlin, Chris Mungall and Suzi Lewis from the Berkely Bioinformatics Open Source Projects group, Barbara Ruef and Monte Westerfield from the Zebrafish Model Organism Database (ZFIN), and Melissa Haendel, Nicole Vasilevsky and Mark Engelstad from the Oregon Health & Science University has joined forces to develop computer-readable logical definitions of HPO terms that will allow human phenotypic abnormalities to be related to entities from anatomy, pathology, physiology, biochemistry, and other areas.
-
-We are creating the definitions using the [Phenotypic Quality Ontology (PATO)](http://obofoundry.org/wiki/index.php/PATO:Main_Page). We logically define phenotypes by stating that classes in the HPO are logically equivalent to Entity/Quality descriptions, with each such description consisting of the following elements: Q, the type of quality (characteristic) that the genotype affects; E, the type of entity that bears the quality; E2, an additional optional entity type, for relational qualities; M, a modifier. The basic methodology has been described [in this paper](http://f1000research.com/articles/2-30/v2).
+ -->
 

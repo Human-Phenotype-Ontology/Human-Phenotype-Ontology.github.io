@@ -11,14 +11,17 @@ sitemap:
 
 ##  A short history of HPO
 
-In 2008 we started to create the HPO at the Charité, Berlin, Germany. This included:
+In 2008 we started the HPO at the Charité, Berlin, Germany. Major contributors were
 
-- Peter Robinson
+- Peter Robinson (now at JAX)
 - Sebastian Köhler
-- Sebastian Bauer
+
+with support from: 
+
 - Sandra Doelken
+- Sebastian Bauer
  	
-Soon after its creation, the HPO got generous support from the LBNL, Berkeley, namely:
+Soon after its creation, the HPO got support from the LBNL, Berkeley, namely:
 
 - Chris Mungall
 - Suzi Lewis
