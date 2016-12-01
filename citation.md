@@ -4,7 +4,7 @@ title: Citation
 sitemap:
     priority: 1.0
     changefreq: weekly
-    lastmod: 2015-09-23T16:31:30+05:30
+    lastmod: 2016-12-01T10:00:30+05:30
 ---
 
 
@@ -15,10 +15,10 @@ sitemap:
 
 When using or mentioning HPO, please cite:
 
-Sebastian Köhler, Sandra C Doelken, Christopher J. Mungall, Sebastian Bauer, Helen V. Firth, et al.  
-*The Human Phenotype Ontology project: linking molecular biology and disease through phenotype data*  
-Nucl. Acids Res. (1 January 2014) 42 (D1): D966-D974 doi:10.1093/nar/gkt1026
+Sebastian Köhler, Nicole Vasilevsky, Mark Engelstad, Erin Foster, et al.
+*The Human Phenotype Ontology in 2017*  
+Nucl. Acids Res. (2016) doi: 10.1093/nar/gkw1039
  
-## Citation for products/services
+## Citation in products/services
 
 This service/product is using the Human Phenotype Ontology (*version information*). Find out more at [www.human-phenotype-ontology.org](www.human-phenotype-ontology.org).
