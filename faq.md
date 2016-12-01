@@ -26,7 +26,7 @@ Please do not start translating HPO content without contacting us beforehand. Th
 
 ## What is the difference between *genes\_to\_phenotypes.txt* and *phenotype\_to\_genes.txt* ?
 
-A question that is asked very often, deals with the asymmetriy of the files:
+A question that is asked very often, deals with the asymmetry of the files:
 
  - *genes\_to\_phenotypes.txt* 
  - *phenotype\_to\_genes.txt*
@@ -47,3 +47,14 @@ then *phenotype\_to\_genes.txt* contains:
 
  - *HP_3* annotates  **geneA** and **geneB** 
 
+
+## What is your procedure for associating genes with HPO phenotypes?
+The following file is used to associate genes with phenotypes.
+
+ - *genes\_to\_phenotypes.txt*
+
+In many cases, there are multiple diseases that are associated with mutations in the same gene (for instance, mutations in the LMNA gene are associated with multiple diseases including
+Cardiomyopathy, dilated, 1A [MIM:115200], Charcot-Marie-Tooth disease, type 2B1 [605588], Emery-Dreifuss muscular dystrophy 2, AD [181350], and Hutchinson-Gilford progeria [176670]. Each
+of these diseases is associated with a different spectrum of phenotypic features. The gene-to-phenotype association in our databases takes the set of all phenotypic features (HPO terms)
+associated with one or more diseases causes by mutation in the gene under consideration. Thus, LMNA is associated with Alopecia (which is a feature of Hutchinson-Gilford progeria) as
+well as Ventricular arrhythmia (which is a feature of Cardiomyopathy, dilated, 1A). 
