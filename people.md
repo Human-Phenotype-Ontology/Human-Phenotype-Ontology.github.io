@@ -15,6 +15,7 @@ sitemap:
  * NIH Undiagnosed disease program (UDP)
  * Orphanet
  * FORGE (Genome Canada)
+ * CARE for RARE
  * Mouse Genome Informatics (MGI)
  * Genomics England
  * ECARUCA
@@ -38,6 +39,7 @@ sitemap:
  * BOQA
  * [Exomiser](http://www.sanger.ac.uk/science/tools/exomiser)
  * [PhenoTips](https://phenotips.org/)
+ * [PhenomeCentral](https://phenomecentral.org/)
  * [MORPHIN (Model Organisms Projected on a Human Integrated Gene Network)](http://www.inetbio.org/morphin/)
  * [PhenoDigm](http://www.sanger.ac.uk/resources/databases/phenodigm/)
  * Uberpheno
