@@ -32,7 +32,7 @@ Nucl. Acids Res. (1 January 2014) 42 (D1): D966-D974 doi:10.1093/nar/gkt1026
  
 ## Citation for products/services
 
-This service/product is using the Human Phenotype Ontology (*version information*). Find out more at [www.human-phenotype-ontology.org](www.human-phenotype-ontology.org).
+This service/product is using the Human Phenotype Ontology (*version information*). Find out more at [http://www.human-phenotype-ontology.org](http://www.human-phenotype-ontology.org).
 
 ## Version information
 
