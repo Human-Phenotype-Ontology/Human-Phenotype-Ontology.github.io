@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Obtaining old HPO data"
+date:   2017-01-12 04:00:00
+categories: 
+---
+
+## How to obtain old HPO data
+
+Several users were asking about old releases of the HPO data, e.g. the ontology or the annotation data.
+
+I have now moved a lot of the old data to its own [GitHub-Repository](https://github.com/Human-Phenotype-Ontology/HPO-archive).
+
+Please [contact us](/contact.html) if you have any questions.
+
+Best,
+Sebastian
