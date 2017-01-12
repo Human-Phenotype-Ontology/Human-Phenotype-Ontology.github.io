@@ -16,7 +16,7 @@ sitemap:
 When using or mentioning HPO, please cite:
 
 Sebastian Köhler, Nicole Vasilevsky, Mark Engelstad, Erin Foster, et al.
-*The Human Phenotype Ontology in 2017*  
+*[The Human Phenotype Ontology in 2017](http://nar.oxfordjournals.org/content/45/D1/D865)*  
 Nucl. Acids Res. (2016) doi: 10.1093/nar/gkw1039
  
 ## Citation in products/services
