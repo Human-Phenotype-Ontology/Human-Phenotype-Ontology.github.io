@@ -27,6 +27,10 @@ The annotation files (e.g. phenotype_annotation.tab) from our
  - *phenotype_annotation_hpoteam.tab*: contains annotations the HPO-team (mostly referring to OMIM)
  - *negative_phenotype_annotation.tab*: contains negative annotations (i.e. a disease is NOT associated with this HPO-term)
 
+### Chinese HPO
+
+A Chinese version of the HPO can be downloaded from the [CHPO Website](http://wiki.chinahpo.org/index.php/%E9%A6%96%E9%A1%B5).
+
 ### Database
 
 The HPO can also be obtained in the form of a database. The most recent dump of this DB can be [obtained from here](http://compbio.charite.de/hudson/job/hpo.annotations.monthly/lastStableBuild/).
