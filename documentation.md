@@ -40,6 +40,7 @@ Each term in the HPO describes a clinical abnormality. These may be general term
 | [*Mode of Inheritance*](http://www.human-phenotype-ontology.org/hpoweb?id=HP:0000005)  | This relatively small ontology is intended to describe the mode of inheritance and contains terms such as *Autosomal dominant*..
 | [*Clinical modifier*](http://www.human-phenotype-ontology.org/hpoweb?id=HP:0012823)  | This ontology contains classes that describe typical modifiers of clinical symptoms. For example the speed of progression, the variablity or the onset. It contains terms such as *Onset in childhood*, *Rapidly progressive*, or *Incomplete penetrance*.
 | [*Mortality/Aging*](http://www.human-phenotype-ontology.org/hpoweb?id=HP:0040006)  | This sub-ontology describes *Time of death* and contains classes such as *Neonatal death* or *Sudden death*.
+| [*Frequency*](http://www.human-phenotype-ontology.org/hpoweb?id=HP:0040279)  | Frequency with that patients do show a particular clinical feature. Examples are *Obligate*, *Frequent*, and *Occasional*. These terms are defined in the same way as Orphanet defines them.
 
 
 *The Structure of the Human Phenotype Ontology*
@@ -47,8 +48,6 @@ Each term in the HPO describes a clinical abnormality. These may be general term
 Most ontologies are structured as directed acyclic graphs (DAG), which are similar to hierarchies but differ in that a more specialized term (child) can be related to more than one less specialized term (parent).  Cycles (cyclic paths in the graph) are not allowed. The relationship of the terms of the HPO to one another is displayed in the DAG. For instance, the term *Aplasia/Hypoplasia of metatarsal bones* is a child of both *Aplasia/Hypoplasia involving bones of the feet* and *Abnormalities of the metatarsal bones*. The ability to encode multiple parents in a DAG adds to the flexibility and descriptiveness of the ontology. For instance, it is possible to search for all terms involving *Aplasia/Hypoplasia of the skeleton* as well as to search for all terms involving *Abnormalities of the foot*. This would not be possible with a simple hierarchical system.
 The **is-a** relationship is transitive, meaning that annotations are inherited up all paths to the root. For instance, 
 *Abnormality of the lower limbs* **is-a** *Abnormality of the extremities*, and thus *Abnormality of the feet* also **is-a** *Abnormality of the extremities*.
-
-
 
 
 
@@ -74,7 +73,7 @@ You may have look at [PhenoTips](https://phenotips.org/) if you are aiming at an
 6 | DB:Reference | required | OMIM:154700 or PMID:15517394
 7 | Evidence code | required | IEA
 8 | Onset modifier | optional | HP:0003577
-9 | Frequency modifier | optional | "70%" or "12 of 30" or from the vocabulary show in table below
+9 | Frequency modifier | optional | Usually from the subontology [*Frequency*](http://www.human-phenotype-ontology.org/hpoweb?id=HP:0040279) or "70%" or "12 of 30"
 10 | With | optional |  
 11 | Aspect | required | O
 12 | Synonym | optional | ACG1B\|Achondrogenesis, Fraccaro type
