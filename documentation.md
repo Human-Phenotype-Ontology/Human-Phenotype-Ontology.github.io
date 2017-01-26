@@ -60,7 +60,7 @@ link between a disease entity such as *Noonan syndrome* and one of the clinical 
 Note that this file (and format) is intended to be used for the annotation of disease entities (e.g. *Noonan syndrome*) and not individuals (such as a person that has been diagnosed with *Noonan syndrome*). 
 You may have look at [PhenoTips](https://phenotips.org/) if you are aiming at annotating clinical findings of individuals with hereditary diseases. 
 
-*The flat file format comprises 12 tab-delimited fields*
+*The flat file format comprises 14 tab-delimited fields*
 
 |---
 |Column|Content|Required|Example
