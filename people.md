@@ -63,6 +63,7 @@ sitemap:
  
 ##  Selected papers that use HPO
 
+ * Posey J, et al. "Resolution of Disease Phenotypes Resulting from Multilocus Genomic Variation" NEJM (2017)
  * D Smedley, et al. "Next-generation diagnostics and disease-gene discovery with the Exomiser" Nature Protocols (2015)
  * N Akawi, et al. "Discovery of four recessive developmental disorders using probabilistic genotype and phenotype matching among 4,125 families" Nature Genetics (2015) 47  
  * A Kundaje, W Meuleman, J Ernst, M Bilenky et al. "Integrative analysis of 111 reference human epigenomes" Nature (2015) 518,317–330  
