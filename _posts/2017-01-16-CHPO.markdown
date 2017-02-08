@@ -9,4 +9,4 @@ categories:
 
 The Chinese HPO group has published a Chinese translation of the HPO. 
 
-See the [CHPO Website](http://wiki.chinahpo.org/index.php/%E9%A6%96%E9%A1%B5/) for further information.
+See the [CHPO Website](http://wiki.chinahpo.org/index.php/CHPO) for further information.
