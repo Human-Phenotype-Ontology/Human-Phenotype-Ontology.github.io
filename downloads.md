@@ -48,10 +48,10 @@ These files will be updated at regular intervals (once every month). The links a
 
 We do have translations of the HPO labels into spanish (**¡Muchas gracias!** to Pablo Lapunzina M.D., Ph.D. and colleagues) and italian. 
 We are working with several people to translate more content of HPO into a multitude of languages. 
-Several translations are being actively developed at the moment (e.g. german).
+Several translations are being actively developed at the moment (e.g. german). Chinese and Japanese translations are also already finished (e.g. CHPO project)
 
 The translations are considered a project coordinated by the HPO team and is hosted [on GitHub](https://github.com/Human-Phenotype-Ontology/HPO-translations). 
-Please do not start translating HPO content without contacting us beforehand. This might cause duplicated translations and other problems. Please [contact us here](contact.html).
+We kindly ask you to not start translating HPO content without contacting us beforehand. This might cause duplicated translations and other problems. Please [contact us here](contact.html).
 
 
 
@@ -59,4 +59,8 @@ Please do not start translating HPO content without contacting us beforehand. Th
 
 The HPO team (Sandra, Peter, Sebastian) has developed a mapping between the categories of the London Dysmorphology Database (LDDB), which is an important 
 resource used by many clinical geneticists to help in the differential diagnosis. The mapping is provided so that users will be able to convert phenotypic data encoded with LDDB categories into HPO terms.
-We also have created mappings to MEDDRA, Orphanet, and UMLS. Please [contact us here](contact.html) if you would like to obtain a copy.
+We also have created mappings to MEDDRA and Orphanet. Note that we are partnering with Orphanet and they are now re-annotating all their disease entries with HPO terms. 
+
+The UMLS has now completely incorporated HPO. In order to make access to this mapping easier, the HPO now has all cross-references that UMLS created in their ontology-files. In the OBO-version you will find e.g. "xref: SNOMEDCT_US:32659003" and "xref: UMLS:C0266295".
+
+Please [contact us here](contact.html) if you need more information or would like to contribute to our mapping efforts.
