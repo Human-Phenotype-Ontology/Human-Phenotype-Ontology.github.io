@@ -61,6 +61,6 @@ The HPO team (Sandra, Peter, Sebastian) has developed a mapping between the cate
 resource used by many clinical geneticists to help in the differential diagnosis. The mapping is provided so that users will be able to convert phenotypic data encoded with LDDB categories into HPO terms.
 We also have created mappings to MEDDRA and Orphanet. Note that we are partnering with Orphanet and they are now re-annotating all their disease entries with HPO terms. 
 
-The UMLS has now completely incorporated HPO. In order to make access to this mapping easier, the HPO now has all cross-references that UMLS created in their ontology-files. In the OBO-version you will find e.g. "xref: SNOMEDCT_US:32659003" and "xref: UMLS:C0266295".
+The UMLS has now completely incorporated HPO. In order to make access to this mapping easier, the HPO ontology files contain all cross-references that UMLS created. In the OBO-version you will find e.g. "xref: SNOMEDCT_US:32659003" and "xref: UMLS:C0266295".
 
 Please [contact us here](contact.html) if you need more information or would like to contribute to our mapping efforts.
