@@ -13,7 +13,7 @@ sitemap:
  
 We welcome the participation of interested colleagues. We anticipate that the structure of the HPO will continue to be refined and completed for some time to come. Groups or persons with expert knowledge in a particular domain of human phenotyping in a medical genetics setting are invited to contribute their knowledge on a collaborative basis. Please [contact us](contact.html) to discuss details.
  
-We are currently transitioning from annotations derived in a semiautomated fashion from the OMIM database to curated annotations. Given the number of human hereditary diseases, this is no small task. We greet participation of colleagues with an interest in specific hereditary diseases to improve the annotations for 'their' disease. Please get in [contact with us](contact.html) to discuss this form of collaboration. We are also preparing an online system for manual annotations.
+We are currently transitioning from annotations derived in a semiautomated fashion from the OMIM database to manually curated annotations. Given the number of human hereditary diseases, this is no small task. We greet participation of colleagues with an interest in specific hereditary diseases to improve the annotations for 'their' disease. Please get in [contact with us](contact.html) to discuss this form of collaboration. We are also preparing an online system for manual annotations.
  
 The issue tracker is [available on Github](https://github.com/obophenotype/human-phenotype-ontology/issues).
 
@@ -46,6 +46,12 @@ and *genes\_to\_phenotypes.txt* contains
 then *phenotype\_to\_genes.txt* contains: 
 
  - *HP_3* annotates  **geneA** and **geneB** 
+
+
+## What is the difference between "ALL_FREQUENCIES" and "FREQUENT_FEATURES"?
+
+Each annotation has a frequency associated, i.e. how many patients with that disease have this clinical feature. “ALL_FREQUENCIES” denotes that we do not use any filter. “FREQUENT_FEATURES” means that we exclude all features seen in less than 50% of the patients.
+
 
 
 ## What is your procedure for associating genes with HPO phenotypes?
