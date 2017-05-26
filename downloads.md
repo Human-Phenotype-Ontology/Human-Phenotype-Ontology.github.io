@@ -23,13 +23,11 @@ This currently re-directs you to our Hudson/Jenkins page. Hudson/Jenkins are con
 The annotation files (e.g. phenotype_annotation.tab) from our 
 [Hudson/Jenkins page](http://compbio.charite.de/hudson/job/hpo.annotations/lastStableBuild/). The format of the annotation file is explained under [Documentation](/documentation.html).
 
- - *phenotype_annotation.tab*: contains annotations from the HPO-team (mostly referring to OMIM), Orphanet, and DECIPHER
- - *phenotype_annotation_hpoteam.tab*: contains annotations the HPO-team (mostly referring to OMIM)
+ - *phenotype_annotation.tab*: contains manual and semi-automated annotations created by the HPO-team. These are annotations of OMIM-, Orphanet-, and DECIPHER-entries
+ - *phenotype_annotation_hpoteam.tab*: contains annotations made explicitly and manually by the HPO-team (mostly referring to OMIM entries)
  - *negative_phenotype_annotation.tab*: contains negative annotations (i.e. a disease is NOT associated with this HPO-term)
 
-### Chinese HPO
 
-A Chinese version of the HPO can be downloaded from the [CHPO Website](http://wiki.chinahpo.org/index.php/%E9%A6%96%E9%A1%B5).
 
 ### Database
 
@@ -54,6 +52,9 @@ The translations are considered a project coordinated by the HPO team and is hos
 We kindly ask you to not start translating HPO content without contacting us beforehand. This might cause duplicated translations and other problems. Please [contact us here](contact.html).
 
 
+### Chinese HPO
+
+A Chinese version of the HPO can be downloaded from the [CHPO Website](http://wiki.chinahpo.org/index.php/%E9%A6%96%E9%A1%B5).
 
 ### Mappings
 
