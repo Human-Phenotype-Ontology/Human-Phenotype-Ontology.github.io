@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Late July 2017 release"
+title:  "Early July 2017 release"
 date:   2017-06-30 09:00:00
 categories: 
 ---
 
-## Late July 2017 release
+## Early July 2017 release
 
 There is a new release available. New terms and some annotation updates.
 
