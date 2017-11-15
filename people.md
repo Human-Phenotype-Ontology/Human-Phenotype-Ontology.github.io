@@ -36,7 +36,6 @@ sitemap:
 ### Tools using HPO
 
  * [Phenomizer](compbio.charite.de/phenomizer)
- * BOQA
  * [Exomiser](http://www.sanger.ac.uk/science/tools/exomiser)
  * [PhenoTips](https://phenotips.org/)
  * [PhenomeCentral](https://phenomecentral.org/)
@@ -60,6 +59,7 @@ sitemap:
  * [Bio-LarK](http://bio-lark.org/)
  * [GEPADO – Software Solutions for Genetics - GmbH](http://gepado.de/en/)
  * [OMIM Explorer](http://omimexplorer.research.bcm.edu)
+ * [BioDiscovery's NxClinical](http://www.biodiscovery.com/nxclinical/)
  
 ##  Selected papers that use HPO
 
