@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "December 2017 release - annotation data"
+title:  "December 2017 release"
 date:   2017-12-12 05:00:00
 categories: 
 ---
