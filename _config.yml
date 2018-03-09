@@ -29,6 +29,7 @@ links:
   twitter: hp_ontology
   tracker: https://github.com/obophenotype/human-phenotype-ontology/issues
   browser: http://www.human-phenotype-ontology.org/hpoweb?id=HP:0000118
+  mailinglist: https://groups.io/g/human-phenotype-ontology 
   contact: /contact.html
   
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
