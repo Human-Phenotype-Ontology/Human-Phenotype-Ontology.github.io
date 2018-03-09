@@ -12,11 +12,14 @@
 		<ul class="links">
 			
 			{% if site.links.tracker %}
-				<li><a href="{{ site.links.tracker }}" target="_blank">New Term Request</a></li>
-				<li><a href="{{ site.links.tracker }}" target="_blank">Suggest change</a></li>
+				<li><a href="{{ site.links.tracker }}" target="_blank">Add content to HPO</a></li>
+				<li><a href="{{ site.links.tracker }}" target="_blank">Suggest change to HPO</a></li>
+			{% endif %}
+			{% if site.links.mailinglist %}
+				<li><a href="{{ site.links.browser }}" target="_blank">HPO Mailinglist</a></li>
 			{% endif %}
 			{% if site.links.browser %}
-				<li><a href="{{ site.links.browser }}" target="_blank">HPO-Browser</a></li>
+				<li><a href="{{ site.links.browser }}" target="_blank">HPO browser</a></li>
 			{% endif %}
 			{% if site.links.twitter %}
 				<li><a href="https://twitter.com/{{ site.links.twitter }}" target="_blank">Twitter</a></li>
