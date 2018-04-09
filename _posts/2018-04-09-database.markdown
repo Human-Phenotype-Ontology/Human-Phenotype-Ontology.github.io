@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Paper on novel annotation model"
+date:   2018-04-09 06:00:00
+categories: 
+---
+
+## Paper on annotation model
+
+For the interested reader - there is a new paper suggesting an extended annotation model, which can help HPO-based similarity calculations.
+
+It is available via [Database (Oxford)](https://academic.oup.com/database/article/doi/10.1093/database/bay026/4953405).

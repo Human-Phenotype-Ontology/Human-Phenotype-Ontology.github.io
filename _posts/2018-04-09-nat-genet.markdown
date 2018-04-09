@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Nature Genetics Paper on layperson vocabulary"
+date:   2018-04-09 05:00:00
+categories: 
+---
+
+## Nature Genetics Paper on layperson vocabulary
+
+Our joint project with the Monarch-Initiative, PCORI, Sanford, and a lot of others on adding layperson synonyms to HPO has now been published in [Nature Genetics](https://www.nature.com/articles/s41588-018-0096-x).
+
