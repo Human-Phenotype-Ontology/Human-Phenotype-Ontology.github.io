@@ -7,5 +7,13 @@ categories:
 
 ## Nature Genetics Paper on layperson vocabulary
 
-Our joint project with the Monarch-Initiative, PCORI, Sanford, and a lot of others on adding layperson synonyms to HPO has now been published in [Nature Genetics](https://www.nature.com/articles/s41588-018-0096-x).
+In clinical settings, phenotypic abnormalities are often defined  using specialized medical terminology,  which can be  difficult  for  patients  to
+   understand. This so-called terminology-gap can impede participation of patients and families in
+   research projects concerned with the phenotype or natural history of diseases, and
+   can even make it difficult for patients to understand data from their own medical charts.
+   
+The HPO Project and the Monarch Initiative have therefore "translated" the terms of the HPO into "plain language".
+   For instance, the term for _Macrocephaly_ can be translated as _Large skull_.
+
+This joint project with the Monarch-Initiative, HPO, PCORI, Sanford Medical, and a lot of other contributors on adding layperson synonyms to HPO has now been published in [Nature Genetics](https://www.nature.com/articles/s41588-018-0096-x).
 
