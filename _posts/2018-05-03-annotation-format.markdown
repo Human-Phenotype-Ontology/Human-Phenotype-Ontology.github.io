@@ -6,6 +6,7 @@ categories:
 ---
 
 ## New HPO Annotation File Format
+
 The HPO project is transitioning to a new annotation file format in 2018, and we are requesting comments, suggestions, and other feedback prior to making the switch.
 The current annotation format dates back to the early days of the HPO project in 2009 and needed some minor improvements to be able to capture more metadata about the phenotypic abnormalities that characterize disease. 
 The 2009-present format is described here: http://human-phenotype-ontology.github.io/documentation.html#annot
