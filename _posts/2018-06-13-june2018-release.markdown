@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "June 2018 release"
+date:   2018-06-13 05:00:00
+categories: 
+---
+
+We just made a new release for June, 2018. Please continue to file issues on our github tracker.
+
+Thanks,
+The HPO Team
